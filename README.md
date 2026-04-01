@@ -38,7 +38,7 @@ npm create cloudflare@latest -- --template=cloudflare/templates/d1-template
 
 A live public deployment of this template is available at [https://d1-template.templates.workers.dev](https://d1-template.templates.workers.dev)
 
-## Setup Steps
+## Setup Steps V2
 
 1. Install the project dependencies with a package manager of your choice:
    ```bash
